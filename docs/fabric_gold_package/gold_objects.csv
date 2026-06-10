@@ -1,0 +1,6 @@
+load_order,object_name,object_type,source_table,required,source_notebook,purpose
+1,dim_loan,dimension,Gold.dbo.dim_loan,true,GoldImprovments/loadgold,Loan master dimension
+2,dim_prev_application,dimension,Gold.dbo.dim_prev_application,true,loadgold,Previous application dimension
+3,dim_relative_month,dimension,Gold.dbo.dim_relative_month,true,loadgold,Relative month dimension
+4,dim_dpd_bucket_v2,dimension,Gold.dbo.dim_dpd_bucket_v2,true,GoldImprovments/loadgold,DPD bucket V2 dimension bound to ontology
+5,fact_pos_cash_monthly_balance_v2,fact,Gold.dbo.fact_pos_cash_monthly_balance_v2,true,loadgold,POS cash monthly balance V2 fact bound to ontology

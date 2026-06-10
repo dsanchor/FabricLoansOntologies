@@ -1,0 +1,2 @@
+requested_ontology_name,resolved_ontology_name,resolved_ontology_id,target_workspace_name,target_workspace_id,target_lakehouse_name,target_lakehouse_id,target_schema
+AnalyceLoanV3,AnalyzeLoanOnV3,ef14041b-60e3-412c-9084-eee9fedb76e2,LoanDemoEnv,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,Gold_AnalyzeLoanV3_Target,49b3f9e2-0aa8-457c-bd6f-ea87a2cf15e3,dbo

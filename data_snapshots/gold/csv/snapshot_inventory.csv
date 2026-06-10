@@ -1,0 +1,6 @@
+load_order,table_name,source_table,required_for_ontology,local_folder,expected_file_pattern,status
+1,dim_loan,Gold.dbo.dim_loan,true,data_snapshots/gold/csv/01_dim_loan,*.csv,pending
+2,dim_prev_application,Gold.dbo.dim_prev_application,true,data_snapshots/gold/csv/02_dim_prev_application,*.csv,pending
+3,dim_relative_month,Gold.dbo.dim_relative_month,true,data_snapshots/gold/csv/03_dim_relative_month,*.csv,pending
+4,dim_dpd_bucket_v2,Gold.dbo.dim_dpd_bucket_v2,true,data_snapshots/gold/csv/04_dim_dpd_bucket_v2,*.csv,pending
+5,fact_pos_cash_monthly_balance_v2,Gold.dbo.fact_pos_cash_monthly_balance_v2,true,data_snapshots/gold/csv/05_fact_pos_cash_monthly_balance_v2,*.csv,pending

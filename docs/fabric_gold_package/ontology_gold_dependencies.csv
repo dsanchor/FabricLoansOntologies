@@ -1,0 +1,6 @@
+entity_name,source_workspace_id,source_item_id,source_schema,source_table_name,source_type,binding_path
+Dim_loan,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,2cfc458b-236e-4d9b-b5fd-394c07bc1b86,dbo,dim_loan,LakehouseTable,EntityTypes/259822893522364/DataBindings/c4980d22-ca04-49d1-b619-72be8f49fed0.json
+dim_prev_application,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,2cfc458b-236e-4d9b-b5fd-394c07bc1b86,dbo,dim_prev_application,LakehouseTable,EntityTypes/121534858787753/DataBindings/dee3f1ef-ad4b-4587-b2c9-85e934833aff.json
+dim_relative_month,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,2cfc458b-236e-4d9b-b5fd-394c07bc1b86,dbo,dim_relative_month,LakehouseTable,EntityTypes/97200370208598/DataBindings/9e4c2188-6739-45f6-b7e8-2a693cd9bcc9.json
+dim_dpd_bucket_v2,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,2cfc458b-236e-4d9b-b5fd-394c07bc1b86,dbo,dim_dpd_bucket_v2,LakehouseTable,EntityTypes/187597708792800/DataBindings/77047a1b-672d-4691-95ba-d64cc3ed196a.json
+fact_pos_cash_monthly_balance_v2,031bbc7e-6f0e-4dd0-85a0-fee11d03fb0a,2cfc458b-236e-4d9b-b5fd-394c07bc1b86,dbo,fact_pos_cash_monthly_balance_v2,LakehouseTable,EntityTypes/214674912564809/DataBindings/adf69758-f140-4141-babd-3ff600eedc05.json

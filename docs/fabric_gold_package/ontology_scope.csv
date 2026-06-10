@@ -1,0 +1,2 @@
+requested_name,resolved_name,ontology_id,ontology_lakehouse,ontology_lakehouse_id,included_in_package,excluded_other_ontologies
+AnalyceLoanV3,AnalyzeLoanOnV3,ef14041b-60e3-412c-9084-eee9fedb76e2,AnalyzeLoanOnV3_lh_ef14041b60e3412c9084eee9fedb76e2,6834ed2a-e76b-44a6-a316-19c11c67a680,true,true
