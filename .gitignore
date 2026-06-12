@@ -11,3 +11,10 @@ __pycache__/
 
 # Local archives
 *.zip
+
+# Local secrets / environment config
+.env
+.env.local
+
+# Local extraction workdir for deployment script
+.deploy_workdir/
